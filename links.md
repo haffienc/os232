@@ -4,7 +4,6 @@ permalink: LINKS/
 
 # LINKS
 
-# WEEK 1
 [Apa itu Sistem Operasi?](https://youtu.be/fkGCLIQx1MI?si=BYXih5oXZ2cz1gnQ) ---
   Sebelum mengenal lebih dalam kita harus tau apa itu sistem operasi.
   Video ini sangat singkat namun mudah dimengerti.
@@ -17,7 +16,6 @@ permalink: LINKS/
   Setelah mempelajari apa itu sistem operasi sekarang kita belajar cara kerjanya.
   video ini sangat mudah dipahami dengan dibantu ilustrasi ilutrasi yang terdapat di dalam video.
 
-# WEEK 2
 [Apa dan bagaimana cara GnuPG bekerja?](https://youtu.be/zK2mt7Nf42k?si=uG_0akKAXDXCTxxf) ---
   Diweek 2 ini kita sering menggunakan GnuPG, kita harus tau terlebih dahulu cara kerjanya.
   video ini menjelaskan apa itu GnuPG dan cara kerjanya.
