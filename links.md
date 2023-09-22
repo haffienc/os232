@@ -26,4 +26,5 @@ permalink: LINKS/
   Diweek 2 ini kita juga belajar C-Language.
   video ini menjelaskan dasar-dasar C-Language.
 
+  # WEEK 3
   
