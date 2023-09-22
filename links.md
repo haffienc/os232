@@ -23,6 +23,3 @@ permalink: LINKS/
 [Apa dan bagaimana cara GnuPG bekerja?](https://youtu.be/rLf3jnHxSmU?si=W0Xq2AQGON2GfFJQ) ---
   Diweek 2 ini kita juga belajar C-Language.
   video ini menjelaskan dasar-dasar C-Language.
-
-  # WEEK 3
-  
