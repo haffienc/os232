@@ -23,3 +23,6 @@ permalink: LINKS/
 [Apa dan bagaimana cara GnuPG bekerja?](https://youtu.be/rLf3jnHxSmU?si=W0Xq2AQGON2GfFJQ) ---
   Diweek 2 ini kita juga belajar C-Language.
   video ini menjelaskan dasar-dasar C-Language.
+
+[Apa itu cache memory?](https://youtu.be/HJjMsN1vVRI?si=FI59a0dDUZtBR_vd)
+video ini menjelaskan secara singkat namun sangat jelas tentang cache memory
