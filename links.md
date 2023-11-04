@@ -26,3 +26,9 @@ permalink: LINKS/
 
 [Apa itu cache memory?](https://youtu.be/HJjMsN1vVRI?si=FI59a0dDUZtBR_vd) ---
 video ini menjelaskan secara singkat namun sangat jelas tentang cache memory
+
+[Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/) ---
+Website ini menjelaskan tentang fork() function
+
+[Process vs Thread](https://youtu.be/Dhf-DYO1K78?si=Nd7LeUVvg3uk1KWe) ---
+Menjelaskan tentang process dan thread secara singkat
