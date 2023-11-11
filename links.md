@@ -32,3 +32,9 @@ Website ini menjelaskan tentang fork() function
 
 [Process vs Thread](https://youtu.be/Dhf-DYO1K78?si=Nd7LeUVvg3uk1KWe) ---
 Menjelaskan tentang process dan thread secara singkat
+
+[Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/?ref=lbp) ---
+  It's GeeksforGeeks so it's definetly a must to read!
+
+[What is Deadlock in Operating System (OS)?](https://www.javatpoint.com/os-deadlocks-introduction)<br>
+What is deadlock? you can read it from this website from javatpoint. 
