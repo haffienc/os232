@@ -3,6 +3,11 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 ZCZC W08 30 L00 General, etc.
+ZCZC W08 40 L01 SCELE/Discord related
+ZCZC W08 180 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 120 L09 Weekly Assignments
+
+ZCZC W08 30 L00 General, etc.
 ZCZC W08 8 L05 QUIZ
 ZCZC W08 40 L01 SCELE/Discord related
 ZCZC W08 180 L02 CLASSROOM/ZOOM meetings related
