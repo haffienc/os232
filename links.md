@@ -42,3 +42,7 @@ What is deadlock? you can read it from this website from javatpoint.
 [Welcome to Linux from Scratch!](https://www.linuxfromscratch.org/) ---
   One of the best website about OS course i have ever found so far!
   It will help you to do this week's assignment. 
+
+[What is firmware?](https://www.techtarget.com/whatis/definition/firmware) ---
+  The website tells the detailed information of firmware, this week's topic.
+
