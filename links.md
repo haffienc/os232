@@ -46,3 +46,5 @@ What is deadlock? you can read it from this website from javatpoint.
 [What is firmware?](https://www.techtarget.com/whatis/definition/firmware) ---
   The website tells the detailed information of firmware, this week's topic.
 
+[What is RAID (Redundant Arrays of Independent Disks)?](https://www.javatpoint.com/what-is-raid) ---
+  This website explains all about RAID, this week's topic.
